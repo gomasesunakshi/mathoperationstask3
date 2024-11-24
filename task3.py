@@ -18,13 +18,13 @@ class first:
 
     def division(self):
           if 0 in (self.val1,self.val2,self.val3,self.val4,self.val5):
-               print('cannot divide by zero')
+               print('cant divide by zero')
           else:
                print('division:',self.val1/self.val2/self.val3/self.val4/self.val5)
 
     def mod(self):
            if 0 in (self.val1,self.val2,self.val3,self.val4,self.val5):
-               print('it cant allow modlus by 0')
+               print('it cant allow by 0')
            else:
                print('modulus:',self.val1%self.val2%self.val3%self.val4%self.val5)
 
